@@ -1,4 +1,4 @@
-![code-icon-2048x1367-c3cd0xmt](https://github.com/user-attachments/assets/2af29076-ec33-40d2-8e87-c5d5280969fc)- 👋 Hi, I’m @ontoja
+👋 Hi, I’m @ontoja
 - 👀 I’m interested in discord bot development and java development
 - 🌱 I’m currently learning bukkit
 - 💞️ I love languages: javascript, java
