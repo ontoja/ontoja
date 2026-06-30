@@ -1,6 +1,6 @@
 👋 Hi, I’m @ontoja
-- 👀 I’m interested in discord bot development and java development
-- 🌱 I’m currently learning bukkit
+- 👀 I’m interested in developing discord bots in discord.js and making Minecraft plugins in Java
+- 🌱 I’m currently learning python
 - 💞️ I love languages: javascript, java
 
 
